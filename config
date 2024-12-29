@@ -4,3 +4,4 @@ font-size = 16
 font-family = Hack Nerd Font Mono Regular
 background-opacity = 0.80
 background-blur-radius = 20
+mouse-hide-while-typing = true
