@@ -1,7 +1,7 @@
 theme = catppuccin-frappe
 gtk-titlebar = false
 font-size = 16
-font-family = Hack Nerd Font Mono Regular
-background-opacity = 0.80
-background-blur-radius = 20
+font-family = Hack Nerd Font Mono
+background-opacity = 0.75
 mouse-hide-while-typing = true
+
